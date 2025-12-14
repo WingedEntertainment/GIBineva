@@ -1,4 +1,4 @@
-# Hello here! ⋆ I'm Gergana Bineva ๋࣭ ⭑⚝
+# We are Crative Code 
 
 ## About me: 
 - I’m currently learning in VSCPI.
